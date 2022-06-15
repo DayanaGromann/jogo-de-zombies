@@ -16,10 +16,10 @@ function preload(){
   idle = loadAnimation("assets/survivor-idle_0.png")
   strafe_right = loadAnimation("assets/survivor-strafe_right_0.png", "assets/survivor-strafe_right_19.png")
 
-  rifle = loadAnimation("assets/survivor-move_rifle_0.png", "assets/survivor-move_rifle_19.png");
+  rifle = loadAnimation("rifle/survivor-move_rifle_0.png", "rifle/survivor-move_rifle_19.png");
   handgun = loadAnimation("assets/survivor-move_handgun_0.png", "assets/survivor-move_handgun_19.png")
   knife = loadAnimation("assets/survivor-move_knife_0.png", "assets/survivor-move_knife_19.png");
-  flashlight = loadAnimation("assets/survivor-move_flashlight_0.png", "assets/survivor-move_flashlight_19.png");
+  flashlight = loadAnimation("lanterna/survivor-move_flashlight_0.png", "lanterna/survivor-move_flashlight_19.png");
 
   mira = loadImage("assets/mira.png");
   
